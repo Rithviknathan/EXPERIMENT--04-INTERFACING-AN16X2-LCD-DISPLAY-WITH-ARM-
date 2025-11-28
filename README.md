@@ -273,7 +273,7 @@ int main(void)
   Lcd_cursor(&lcd,0,1);
   Lcd_string(&lcd,"RITHVIK S");
   Lcd_cursor(&lcd,1,1);
-  Lcd_string(&lcd,"STUDENT");
+  Lcd_string(&lcd,"Student");
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
